@@ -1,6 +1,3 @@
--- Курсовой проект Марковский А.А.
-
-
 -- Generation time: Sat, 06 Jun 2020 09:35:19 +0000
 -- Host: mysql.hostinger.ro
 -- DB name: u574849695_24
